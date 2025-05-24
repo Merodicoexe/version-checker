@@ -1,7 +1,7 @@
 {
-  "version": "3.1.0",
-  "last_update": "2024-01-15",
-  "download_url": "https://github.com/your-repo/sg_dispatch/releases/latest",
+  "version": "3.0",
+  "last_update": "2025-05-24",
+  "download_url": "https://portal.cfx.re",
   "changelog": [
     "Added English localization",
     "Fixed locale system bugs",
@@ -9,5 +9,5 @@
     "Added version checker"
   ],
   "required_resource_name": "sg_dispatch",
-  "minimum_server_version": "4752"
+  "minimum_server_version": "15315"
 }
